@@ -29,4 +29,4 @@ Here are the technologies and areas I use most often:
 ---
 
 ## Work & Experience
-- Current role: **[Job title]** at **[Company]** — [Short one-line on what you do]
+- Current role: **[Proceses Analyst]** at **[H. Tzanetatos]** — [Quality and Process for customers]
